@@ -1,1 +1,26 @@
-﻿<li><a id="aLogin" href="/Login">Login</a></li>
+﻿<a data-controls-modal="login-modal" id="aLogin" href="#">Login</a>
+<div id="login-modal" class="modal hide fade" style="display:none;">
+<div class="modal-header">
+              <h3>Login via Google</h3><a href="#" class="close">×</a>
+              
+            </div>
+            <div class="modal-body">
+              <form>
+                <label for="login-username">Google Email Address</label>
+                <div class="input">
+                    <input class="xlarge" id="txtLoginUsername" size="30" type="text" />
+                </div>
+                <div class="clearfix"></div>
+                <label for="login-password">Password</label>
+                <div class="input">
+                    <input class="xlarge" id="txtLoginPassword" size="30" type="password" />
+                </div>
+                <div class="clearfix"></div>
+              </form>
+            </div>
+            <div class="modal-footer">
+              <a href="#" class="btn primary">Log In</a>
+              <a href="#" class="btn secondary">Cancel</a>
+            </div>
+
+</div>
