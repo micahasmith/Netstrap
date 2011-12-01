@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netstrap", "netstrap\netstrap.csproj", "{BD4AFC13-A3CD-4B73-BCFE-A74EA678843F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netstrap.Web", "netstrap\Netstrap.Web.csproj", "{BD4AFC13-A3CD-4B73-BCFE-A74EA678843F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
