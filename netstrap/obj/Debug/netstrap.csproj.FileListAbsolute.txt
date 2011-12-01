@@ -1,0 +1,7 @@
+C:\Users\MSmith\Documents\My Dropbox\Git\netstrap\netstrap\bin\EntityFramework.dll
+C:\Users\MSmith\Documents\My Dropbox\Git\netstrap\netstrap\bin\EntityFramework.xml
+C:\Users\MSmith\Documents\My Dropbox\Git\netstrap\netstrap\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MSmith\Documents\My Dropbox\Git\netstrap\netstrap\bin\Netstrap.Web.dll
+C:\Users\MSmith\Documents\My Dropbox\Git\netstrap\netstrap\bin\Netstrap.Web.pdb
+C:\Users\MSmith\Documents\My Dropbox\Git\netstrap\netstrap\obj\Debug\Netstrap.Web.dll
+C:\Users\MSmith\Documents\My Dropbox\Git\netstrap\netstrap\obj\Debug\Netstrap.Web.pdb
